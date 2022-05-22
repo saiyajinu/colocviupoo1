@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653255158 source:c:\users\adi\desktop\projects\colocviupoo\main.cpp
+	<iostream>
+	<ios>
+	<limits>
+	<iterator>
+	<list>
+
